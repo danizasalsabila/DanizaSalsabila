@@ -1,5 +1,11 @@
-### Hi there 👋
+### Halo Semua 👋
 
+Perkenalkan nama saya **Daniza Salsabila**  
+Saya seorang peserta dari **Pengembang Multi Platform App Developer dan Back End**   di [Dicoding](https://www.dicoding.com)
+
+Saya bertanggung jawab untuk menyelesaikan kelas dan materi App Developer serta Back End
+
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Daniza Salsabila](https://www.linkedin.com/in/daniza-salsabila/)ku ya.
 <!--
 **danizasalsabila/DanizaSalsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
