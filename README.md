@@ -1,7 +1,7 @@
 ### Hello Everyone 👋
 
 My name is **Daniza Salsabila**  
-I'm an enthusiastic student with big passion abput technology, IT, and programming.
+I'm an enthusiastic student with big passion about technology, IT, and programming.
 
 If you're interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/daniza-salsabila/) account.
 <!--
