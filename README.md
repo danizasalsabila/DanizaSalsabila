@@ -3,7 +3,7 @@
 My name is **Daniza Salsabila**  
 I'm an enthusiastic student with big passion abput technology, IT, and programming.
 
-If you're interested in getting to know me, please follow my [Daniza Salsabila](https://www.linkedin.com/in/daniza-salsabila/)account.
+If you're interested in getting to know me, please follow my [LinkedIn](https://www.linkedin.com/in/daniza-salsabila/) account.
 <!--
 **danizasalsabila/DanizaSalsabila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
